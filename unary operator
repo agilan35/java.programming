@@ -1,4 +1,6 @@
- int d = 5;
+ public class unaryoperator{
+    public static void main(String[] args) {
+        int d = 5;
         System.out.println("\nUnary Operators");
         System.out.println("d = " + d);
         System.out.println("++d = " + (++d));
